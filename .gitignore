@@ -1,1 +1,14 @@
 *.pro.user
+.vs/lnetlib2/v14/.suo
+ipch/
+*.VC.VC.opendb
+*.VC.db
+*.vcxproj.user
+*.obj
+unsuccessfulbuild
+*.lastbuildstate
+*.tlog
+*.pch
+*.pdb
+*.log
+*.idb
